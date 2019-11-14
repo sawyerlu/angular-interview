@@ -5,5 +5,4 @@ to only fetch the Lotus models. We would like to enable the customer to search t
 
 Notes:
   We like SOLID and lots of tests. We're after someone that can preach the ways of clean code and help teach the wider teams.
-  Please have a look at the current code structure and improve the code where you can (e.g. Use Redux, Redux Saga, ..., make
-  sure you have Container and Presentational Components)
+  Please have a look at the current code structure and improve the code where you can
